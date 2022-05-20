@@ -22,11 +22,19 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Changes made
-- 
+## Changes Made
+- Aadded a more descriptive title
+- Refactoered header
+- Fixed nav link
+- Structured css file
+- Optimized sections structure
+- Added alt attribute to images
+- Fixed footer
+- Optimized stylesheet
+- Commented HTML and CSS for readability and clarity
 
 ## Demo
-URL: https://natswatch.github.io/horiseon
+URL: https://Artur0705.github.io/horiseon
 
 ## Screenshot
 ![image](./screenshots/main-page.jpeg)
